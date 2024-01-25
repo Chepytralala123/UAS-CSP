@@ -1,0 +1,237 @@
+.head a{
+    color: darkviolet;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 20px;
+    
+}
+.head a:hover{
+    background-color: purple;
+    padding: 10px 20px;
+    color: violet;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+#bttnav{
+    background-color: purple;
+    color: violet;
+    border-radius: 20px 2px 10px 5px;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: violet;
+    scroll-behavior: smooth;
+}
+
+.scroll::-webkit-scrollbar{
+    display: none;
+}
+
+.scroll{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.about-button{
+    display: inline-block;
+    padding: 10px 10px;
+    margin-top: 15px;
+    margin-left: 150px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: violet;
+    border: none;
+    border-radius: 20px 2px 10px 5px;
+    text-decoration: none;
+    transition: background-color 0.5s ease;
+}
+
+.about-button:hover {
+    background-color: blueviolet;
+    color: violet;
+}
+
+.submit-button{
+    display: inline-block;
+    padding: 10px 10px;
+    margin-top: 15px;
+    margin-left: 150px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: violet;
+    border: none;
+    border-radius: 20px 2px 10px 5px;
+    text-decoration: none;
+    transition: background-color 0.5s ease;
+}
+
+.submit-button:hover{
+    background-color: blueviolet;
+    color: violet;
+}
+
+.caption i:hover{
+    color: coral;
+    transition: color 0.5s ease;
+}
+
+#slidepromo{
+    width: auto;
+    text-align: center;
+    align-items: center;
+}
+
+#slidepromo a{
+    border: none;
+    background-color: purple;
+    color: violet;
+}
+#slidepromo a:hover{
+    background-color: violet;
+    color: purple;
+}
+
+.carousel-item img{
+    align-items: center;
+}
+
+.menu a{
+    background-color: darkviolet;
+    color: violet;
+    border: none;
+    border-radius: 100px;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+.menu a:hover{
+    background-color: violet;
+    color: darkviolet;
+}
+
+.card a{
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    color: darkviolet;
+    background-color: violet;
+}
+
+.card a:hover{
+    color: violet;
+    background-color: darkviolet;
+}
+
+.card img{
+    width: 185px;
+}
+
+.card-body-shop a{
+    width: 200px;
+    height: 45px;
+    padding: 10px;
+    text-align: center;
+    color: purple;
+    background-color: violet;
+}
+
+.card-body-shop a:hover{
+    color: violet;
+    background-color: darkviolet;
+}
+
+form label{
+    text-align: left;
+}
+
+#konten{
+    background-color: white;
+    padding: 20px;
+    border-radius: 30px;
+    color: white;
+}
+
+#konten:hover{
+    background-color: purple;
+    color: gold;
+    transition: 4s ease-in-out;
+    font-family: initial;
+}
+
+#konten img{
+    width: 300px;
+    border-radius: 100px 0px 80px 0px; 
+}
+
+#isilayanan{
+    text-align: center;
+    background-color: purple;
+    color: gold;
+    border-radius: 20px;
+    padding: 100px;
+}
+
+#isilayanan img{
+    width: 300px;
+    border-radius: 100px 0px 80px 0px; 
+}
+
+#hub{
+    padding: 50px;
+    background-color: violet;
+    border-radius: 20px;
+    color: darkviolet;
+}
+
+#isiform input{
+    width: 60rem;
+    border-radius: 10px;
+    border: none;
+}
+
+#isiform textarea{
+    width: 60rem;
+}
+
+.subpesan{
+    display: inline-block;
+    padding: 10px 10px;
+    margin-top: 15px;
+    margin-left: 150px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: purple;
+    border: none;
+    border-radius: 20px 2px 10px 5px;
+    text-decoration: none;
+    transition: background-color 0.5s ease;
+}
+
+.subpesan:hover{
+    background-color: blueviolet;
+    color: violet;
+}
+
+#hewan {
+    border-radius: 5px;
+    width: 560px;
+}
+
+.footer{
+    text-align: center; 
+    background-color: purple; 
+    color: violet;
+    border-radius: 5px;
+    height: 50px;
+}
+
+
